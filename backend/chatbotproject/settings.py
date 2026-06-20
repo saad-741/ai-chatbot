@@ -170,5 +170,6 @@ STATIC_ROOT = os.path.join(
 )
 
 CORS_ALLOWED_ORIGINS = [
+    "https://ai-chatbot-chi-murex.vercel.app",
     "http://localhost:5173",
 ]
